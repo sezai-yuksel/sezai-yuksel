@@ -3,5 +3,7 @@
 - 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on "İzmir Bakırçay University" - "Computer Engineering"
 - 💙 I'm freelance Mobile Programming Developer.
-- 📫 How to reach me "https://www.linkedin.com/in/sezai-yuksel-79a1301ba/"
+- 📫 How to reach me :
+- LinkedIn:  https://www.linkedin.com/in/sezai-yuksel-79a1301ba/
+- Medium: https://sezaiyuksel.medium.com/
  
