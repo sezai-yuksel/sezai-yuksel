@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Sezai YÜKSEL
 - 👀 I’m interested in Flutter Mobile Programming and Nodejs API Preparingg
-- 🌱 I’m currently learning Nodejs
 - 💞️ I’m looking to collaborate on "İzmir Bakırçay University" - "Computer Engineering"
 - 💙 I'm freelance Mobile Programming Developer.
 - 📫 How to reach me :
